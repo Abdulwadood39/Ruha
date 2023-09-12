@@ -1,3 +1,3 @@
 # Ruha
 
-> Repo will be updated Soon.
+Repo will be updated Soon.
